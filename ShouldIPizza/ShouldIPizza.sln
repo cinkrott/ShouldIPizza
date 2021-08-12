@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShouldIPizza", "ShouldIPizza\ShouldIPizza.csproj", "{69777E88-2700-472E-8543-A4352FCB29A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69777E88-2700-472E-8543-A4352FCB29A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69777E88-2700-472E-8543-A4352FCB29A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69777E88-2700-472E-8543-A4352FCB29A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69777E88-2700-472E-8543-A4352FCB29A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334A3D9B-6CA0-4CD5-84D6-99AFB74720C3}
+	EndGlobalSection
+EndGlobal
